@@ -1,33 +1,32 @@
-The tool is developed by:
+The creators of this innovative tool are:
 
-1. Surafiel Habib 
-2. Feven Tesfaye, and
-3. Alemayehu Ebisa
+1. Surafiel Habib
+2. Alemayehu Ebisa
+3. Feven Tesfaye
 
-The Amharic Poem Wax and Gold Meaning-Detector is an NLP tool designed to analyze the intricate metaphors and meanings within traditional Ethiopian poetry. It tries to identify and interpret the complex layers of meaning that are often present in Amharic poetry. With its user-friendly interface, it makes it easy for researchers, academics, and enthusiasts to delve deeper into this rich cultural tradition and gain a deeper understanding of the nuances of Amharic poetry. Whether you are a student or a scholar, it can be used as an initial starting point for working with it in your NLP projects and/or research.
+Introducing the "Amharic Poem Wax and Gold Meaning-Detector," an advanced Natural Language Processing (NLP) instrument meticulously crafted to dissect the intricate metaphors and nuances concealed within traditional Ethiopian poetry. Its primary purpose is to discern and unravel the multifaceted layers of significance that often enshroud Amharic poetry. With its intuitively designed interface, this tool provides an accessible gateway for researchers, scholars, and enthusiasts alike to plunge into the depths of this culturally rich tradition. It facilitates a profound comprehension of the subtleties woven into Amharic poetry, whether one is a diligent student or a seasoned academic. It also serves as a preliminary cornerstone for those embarking on NLP projects or engaging in dedicated research endeavors.
 
 Scope:
-Only takes into account the semantic level of the Amharic poem's context.
+The tool exclusively engages with the semantic essence embedded within Amharic poetic contexts.
 
-Provide an Amharic WordNet with a small number of senses and be specialized for the purpose of prototype testing.
+It offers an Amharic WordNet featuring a curated selection of senses, tailored explicitly for prototype testing purposes.
 
-Use only one of several techniques to obtain the wax and gold meanings, namely Word Sense Disambiguation (WSD), to solve the meaning of double-meaning words (ህብረቃል).
+Employing the technique of Word Sense Disambiguation (WSD), it proficiently addresses the challenge of deciphering dual-meaning words (ህብረቃል), a crucial component of the "wax and gold" metaphor.
 
 Limitations:
-It doesn't address Amharic poem that employs techniques of joining words or splitting words.
+It does not encompass Amharic poems that employ word amalgamation or segmentation techniques.
 
-It doesn't work for double-meaning words (ህብረቃሎች) that don’t exist in the corresponding Amharic WordNet.
+For dual-meaning words (ህብረቃሎች) absent from the corresponding Amharic WordNet, the tool's efficacy is constrained.
 
-In our case, when two or more dual-meaning words appear in the same Amharic poem, which is a rare occurrence, it is impossible to pinpoint the precise term dedicated to the poem.
+In instances where a rare occurrence unfolds, featuring two or more dual-meaning words within a single Amharic poem, precise identification of the specific term dedicated to the poem becomes an elusive pursuit.
 
+Future enhancements hold the potential to transcend these limitations through the incorporation of:
 
-Future work can improve the limitations by providing:
+An integrated Amharic morphological analyzer
 
-An integrated Amharic morphological analyzer, 
-An Amharic spelling and grammar checker, and 
-An algorithmic solution for detecting the exact double-meaning word  (ህብረቃል) with its wax and gold meanings when two or more appear in a given Amharic poem.  
+An Amharic spelling and grammar validation system
 
-February 2023.
+An algorithmic framework tailored to identify exact instances of dual-meaning words (ህብረቃል) and unveil their respective "wax and gold" interpretations, even when encountered multiple times within a given Amharic poem.
 
-
+February 2023
 
